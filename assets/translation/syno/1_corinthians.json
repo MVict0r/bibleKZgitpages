@@ -1,8 +1,5 @@
 {
     "bookId": "TMe0yB3kfT8okLFGtD9Y",
-    "long_book_title": "ПЕРВОЕ ПОСЛАНИЕ К КОРИНФЯНАМ",
-    "short_book_title": "1 КОРИНФЯНАМ",
-    "generatedAt": "7 июня 2024 г., 8:18",
     "chapters": [
         {
             "chapterNumber": 1,
@@ -1832,5 +1829,7 @@
                 }
             ]
         }
-    ]
+    ],
+    "short_book_title": "1 КОРИНФЯНАМ",
+    "long_book_title": "ПЕРВОЕ ПОСЛАНИЕ К КОРИНФЯНАМ"
 }

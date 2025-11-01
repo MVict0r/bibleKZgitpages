@@ -1,8 +1,5 @@
 {
     "bookId": "Oj1kk43W9SuHfZ7AZnqW",
-    "long_book_title": "ЕВАНГЕЛИЕ ОТ ИОАННА",
-    "short_book_title": "ИОАННА",
-    "generatedAt": "7 июня 2024 г., 8:17",
     "chapters": [
         {
             "chapterNumber": 1,
@@ -3625,5 +3622,7 @@
                 }
             ]
         }
-    ]
+    ],
+    "short_book_title": "ИОАННА",
+    "long_book_title": "ЕВАНГЕЛИЕ ОТ ИОАННА"
 }

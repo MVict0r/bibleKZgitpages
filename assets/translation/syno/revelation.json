@@ -1,8 +1,5 @@
 {
     "bookId": "gcOfbKZCvZXCYpVO7WF7",
-    "long_book_title": "ОТКРОВЕНИЕ ИОАННА",
-    "short_book_title": "ОТКРОВЕНИЕ",
-    "generatedAt": "7 июня 2024 г., 8:17",
     "chapters": [
         {
             "chapterNumber": 1,
@@ -1730,5 +1727,7 @@
                 }
             ]
         }
-    ]
+    ],
+    "short_book_title": "ОТКРОВЕНИЕ",
+    "long_book_title": "ОТКРОВЕНИЕ ИОАННА"
 }

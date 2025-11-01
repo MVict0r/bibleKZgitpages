@@ -1,8 +1,5 @@
 {
     "bookId": "gnv5TzwIS6ew48e3JnK7",
-    "long_book_title": "ЕВАНГЕЛИЕ ОТ МАРКА",
-    "short_book_title": "МАРКА",
-    "generatedAt": "7 июня 2024 г., 8:16",
     "chapters": [
         {
             "chapterNumber": 1,
@@ -2796,5 +2793,7 @@
                 }
             ]
         }
-    ]
+    ],
+    "short_book_title": "МАРКА",
+    "long_book_title": "ЕВАНГЕЛИЕ ОТ МАРКА"
 }

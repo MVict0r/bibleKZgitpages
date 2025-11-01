@@ -1,8 +1,5 @@
 {
     "bookId": "gCrI7T0RvAkhh7D5kSj6",
-    "long_book_title": "ЕВАНГЕЛИЕ ОТ ЛУКИ",
-    "short_book_title": "ЛУКИ",
-    "generatedAt": "7 июня 2024 г., 8:17",
     "chapters": [
         {
             "chapterNumber": 1,
@@ -4728,5 +4725,7 @@
                 }
             ]
         }
-    ]
+    ],
+    "short_book_title": "ЛУКИ",
+    "long_book_title": "ЕВАНГЕЛИЕ ОТ ЛУКИ"
 }

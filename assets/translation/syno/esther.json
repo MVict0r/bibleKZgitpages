@@ -1,8 +1,5 @@
 {
     "bookId": "OaXAkYYnSEHrjFRVm9GE",
-    "long_book_title": "КНИГА ЕСФИРЬ",
-    "short_book_title": "ЕСФИРЬ",
-    "generatedAt": "13 мая 2024 г., 8:55",
     "chapters": [
         {
             "chapterNumber": 1,
@@ -722,5 +719,7 @@
                 }
             ]
         }
-    ]
+    ],
+    "short_book_title": "ЕСФИРЬ",
+    "long_book_title": "КНИГА ЕСФИРЬ"
 }
